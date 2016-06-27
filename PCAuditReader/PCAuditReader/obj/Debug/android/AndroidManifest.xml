@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PCAuditReader.PCAuditReader" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="19" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="PCAuditReader" android:icon="@drawable/icon" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="ListActivity" android:screenOrientation="portrait" android:name="md5b6bca6ca9aeb7409005c7f9080ee4e08.ListActivity" />
+    <activity android:label="PCAuditReader" android:screenOrientation="portrait" android:name="md5b6bca6ca9aeb7409005c7f9080ee4e08.MainActivity" />
+    <activity android:icon="@drawable/iconqr" android:label="PCAuditReader" android:noHistory="true" android:screenOrientation="portrait" android:name="md5b6bca6ca9aeb7409005c7f9080ee4e08.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5ebfcfb315379575a1b34662c6abbe082.ZxingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PCAuditReader.PCAuditReader.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.PCAuditReader.PCAuditReader" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+</manifest>

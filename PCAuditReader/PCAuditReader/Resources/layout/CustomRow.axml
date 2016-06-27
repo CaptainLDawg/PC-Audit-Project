@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/layout_bg"
+    android:padding="5dip">
+    <TextView
+        android:id="@+id/sqlite_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+    <TextView
+        android:id="@+id/lblSoftwareName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dip"
+        android:paddingLeft="8dip"
+        android:paddingBottom="4dip"
+        android:textSize="18dip"
+        android:text="Software Name"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:id="@+id/lblSoftwareVersion"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:paddingLeft="8dip"
+        android:paddingBottom="6dip"
+        android:textSize="15dip"
+        android:text="Software Version"
+        android:textColor="@android:color/background_light"
+        android:layout_below="@id/lblSoftwareName" />
+    <TextView
+        android:id="@+id/lblSoftwareVendor"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:paddingBottom="6dip"
+        android:textSize="15dip"
+        android:text="Software Vendor"
+        android:textColor="@android:color/background_light"
+        android:layout_below="@id/lblSoftwareVersion"
+        android:layout_marginLeft="8dp" />
+</RelativeLayout>

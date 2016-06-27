@@ -1,0 +1,143 @@
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\App.g.cs
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+c:\users\logan daniel\documents\visual studio 2013\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\App.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+C:\Users\Logan Daniel\Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+C:\Users\Logan Daniel\Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+C:\Users\Logan Daniel\Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+C:\Users\Logan Daniel\Documents\Visual Studio 2013\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\App.g.cs
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+S:\Software\Logan Kawiti\Assessment\PCAuditTool\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\App.g.cs
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+S:\Software\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\App.g.cs
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 4\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csprojResolveAssemblyReference.cache
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ChangeControl.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\LoginToChangeControl.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ChangeControl.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\LoginToChangeControl.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\App.g.cs
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ChangeControl.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ExportingInformation.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\LoadingScreen.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\LoginToChangeControl.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\MainWindow.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ReadDatabase.baml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ChangeControl.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ExportingInformation.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\LoadingScreen.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\LoginToChangeControl.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\MainWindow.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\ReadDatabase.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\App.g.cs
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit_MarkupCompile.cache
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit.g.resources
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\bin\Debug\PCAudit.exe
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\bin\Debug\PCAudit.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit.Properties.Resources.resources
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit.csproj.GenerateResource.Cache
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAudit\PCAudit\obj\Debug\PCAudit.pdb
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 8 - Final\Applications\PCAudit\PCAudit\bin\Debug\PCAudit.exe.config
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 8 - Final\Applications\PCAudit\PCAudit\obj\Debug\PCAudit.exe
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 8 - Final\Applications\PCAudit\PCAudit\obj\Debug\PCAudit.pdb

@@ -1,0 +1,51 @@
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.pdb
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.PCAuditReader.apk
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.PCAuditReader-Signed.apk
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.pdb
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\android\bin\PCAuditReader.PCAuditReader.apk
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\layout\main.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\values\strings.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\icon.png
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\R.cs.flag
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\uploadflags.txt
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\zxing.portable.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\ZXingNetMobile.dll
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\layout_bg.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\background.png
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\layout\listinfo.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\layout\customrow.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\layout\customrowsmall.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\layout\splashscreen.xml
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\splash.png
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\iconqr.png
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.dll.mdb
+C:\Users\LoganDaniel\Documents\Visual Studio 2015\Projects\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.dll.mdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.PCAuditReader.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\PCAuditReader.PCAuditReader-Signed.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\Xamarin.Android.Support.v4.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\ZXing.Net.Mobile.Core.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\zxing.portable.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\bin\Debug\ZXingNetMobile.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\android\bin\PCAuditReader.PCAuditReader.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\layout\listinfo.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\layout\customrow.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\layout\customrowsmall.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\layout\splashscreen.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\layout\main.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\values\strings.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\icon.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\layout_bg.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\background.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\splash.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\res\drawable\iconqr.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\R.cs.flag
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\uploadflags.txt
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\#Final Project\PCAuditReader\PCAuditReader\obj\Debug\PCAuditReader.csprojResolveAssemblyReference.cache

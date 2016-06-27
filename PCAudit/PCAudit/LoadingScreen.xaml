@@ -1,0 +1,9 @@
+﻿<Window x:Class="PCAudit.LoadingScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LoadingScreen" Height="174" Width="364" Background="#FF9C9892" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="lblLoading" Content="Your computer is currently being audited" HorizontalAlignment="Left" Margin="37,31,0,0" VerticalAlignment="Top" Foreground="White" Height="28" Width="281" Background="{x:Null}" FontSize="16" FontFamily="Gill Sans MT" RenderTransformOrigin="0.505,0"/>
+        <Label x:Name="lblTimer" Content="Please Wait.." HorizontalAlignment="Left" Margin="124,78,0,0" VerticalAlignment="Top" Foreground="White" Height="28" Width="113" Background="{x:Null}" FontSize="16" FontFamily="Gill Sans MT" RenderTransformOrigin="0.505,0"/>
+    </Grid>
+</Window>
